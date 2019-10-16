@@ -1,4 +1,5 @@
 midi-listen
+midi-send
 
 # Prerequisites
 *.d
